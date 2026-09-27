@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1668-maximum-repeating-substring](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0139-word-break](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1668-maximum-repeating-substring](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
