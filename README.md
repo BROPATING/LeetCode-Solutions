@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0624-maximum-distance-in-arrays](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
