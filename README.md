@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0678-valid-parenthesis-string](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Trie
@@ -58,9 +60,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0678-valid-parenthesis-string](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Math
 |  |
 | ------- |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
