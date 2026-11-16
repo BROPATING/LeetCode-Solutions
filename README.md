@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1668-maximum-repeating-substring](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0624-maximum-distance-in-arrays](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Math
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+## Sorting
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 <!---LeetCode Topics End-->
