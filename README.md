@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
 | [0139-word-break](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -100,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 <!---LeetCode Topics End-->
