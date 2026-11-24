@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1014-best-sightseeing-pair](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/BROPATING/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1014-best-sightseeing-pair](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1668-maximum-repeating-substring](https://github.com/BROPATING/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
